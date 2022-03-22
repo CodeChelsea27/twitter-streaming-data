@@ -23,3 +23,5 @@ Files Attached -
     - transform_twitter_data_glue_job.py : glue job script for running batch processing on the streamed dumps
 
 6. athena-twiter-streaming-notebook - Sample notebook for connecting to the Data Catalog
+
+![image](https://user-images.githubusercontent.com/55575951/159493410-cdbb32a0-15af-4d77-8237-f09ef2569ecf.png)
