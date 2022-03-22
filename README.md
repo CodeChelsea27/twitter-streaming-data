@@ -8,7 +8,7 @@ Files Attached -
     - Implementation Details
     - Design 
     - Output Snips
-    - Consideration
+    - POC Consideration and Enhancement Scope
 
 2. requirements.txt - modules used in lambda layer
 
