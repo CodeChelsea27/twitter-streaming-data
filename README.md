@@ -24,6 +24,4 @@ Files Attached -
 
 6. athena-twiter-streaming-notebook - Sample notebook for connecting to the Data Catalog
 
-Design Preview: 
-
-![image](https://user-images.githubusercontent.com/55575951/159176893-f1225d0c-a680-46ff-9606-8fb453e00792.png)
+![image](https://user-images.githubusercontent.com/55575951/159493410-cdbb32a0-15af-4d77-8237-f09ef2569ecf.png)
